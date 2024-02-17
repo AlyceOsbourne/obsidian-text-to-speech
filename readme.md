@@ -25,7 +25,7 @@ This Obsidian plugin provides a convenient way to convert selected text or entir
 
 ## Settings
 
-- **Voice Selection**: Choose from a comprehensive list of voices categorized by language.
+- **Voice Selection**: Choose from a comprehensive list of voices categorized by language. (Note, you can still play audio not matching a language, but the quality may not be as high)
 - **Rate**: Adjust the speed of speech playback to match your listening preference.
 - **Volume**: Set the volume level for the speech playback.
 
