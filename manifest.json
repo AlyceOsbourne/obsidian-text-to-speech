@@ -1,0 +1,10 @@
+{
+	"id": "pyxie-tts",
+	"name": "tts",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "tts",
+	"author": "AlyceOsbourne",
+	"authorUrl": "https://github.com/AlyceOsbourne/",
+	"isDesktopOnly": false
+}
